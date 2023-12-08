@@ -13,3 +13,5 @@ Task 5: To add execution permission to the owner of the file
 Task 6: To add execute permission to owner & group and read permission to other users
 
 Task 7: To add execution permission to owner, the group and other users to the file called hello
+
+Task 8: To set other users to have all the permissions
