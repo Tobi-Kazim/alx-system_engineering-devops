@@ -20,4 +20,6 @@ Task 9: To set the mode of file to chmod 753
 
 Task 10: To set the mode to reference two files the same way
 
-TAsk 11: 
+Task 11: To set execute permissions for subdirectories of a current directory
+
+Task 12: 
