@@ -24,4 +24,6 @@ Task 11: To set execute permissions for subdirectories of a current directory
 
 Task 12: To add permission 751 to a newly created dir
 
-Task 13:  
+Task 13: To change the group ownership to school
+
+Task 14:   
