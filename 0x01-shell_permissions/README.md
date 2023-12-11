@@ -18,4 +18,6 @@ Task 8: To set other users to have all the permissions
 
 Task 9: To set the mode of file to chmod 753
 
-Task 10: 
+Task 10: To set the mode to reference two files the same way
+
+TAsk 11: 
