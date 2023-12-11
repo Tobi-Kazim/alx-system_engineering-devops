@@ -22,4 +22,6 @@ Task 10: To set the mode to reference two files the same way
 
 Task 11: To set execute permissions for subdirectories of a current directory
 
-Task 12: 
+Task 12: To add permission 751 to a newly created dir
+
+Task 13:  
