@@ -26,4 +26,6 @@ Task 12: To add permission 751 to a newly created dir
 
 Task 13: To change the group ownership to school
 
-Task 14:   
+Task 14: To change owner and grp owner
+
+Task 15:   
