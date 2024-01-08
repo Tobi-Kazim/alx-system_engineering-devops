@@ -20,4 +20,6 @@
 
 8. To delete a file in a target directory
 
-9.  
+9. To delete a directory inside a directory
+
+10.  
