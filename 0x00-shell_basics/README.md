@@ -1,5 +1,6 @@
 #Welcome to using shell commands
-The Scripts:
+
+#The Scripts:
 
 0. To print the "absolute" path name of a current working directory
 
@@ -13,4 +14,6 @@ The Scripts:
 
 5. To display user and grp IDs in a long format
 
-6.  
+6. To create a directory in /tmp/ directory
+
+7.  
