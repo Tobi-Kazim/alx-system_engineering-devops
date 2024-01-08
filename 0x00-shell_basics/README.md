@@ -22,4 +22,6 @@
 
 9. To delete a directory inside a directory
 
-10.  
+10. To change the working directory to the previous one
+
+11.  
