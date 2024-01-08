@@ -16,4 +16,6 @@
 
 6. To create a directory in /tmp/ directory
 
-7.  
+7. To move a file in to a target directory
+
+8.  
