@@ -18,4 +18,6 @@
 
 7. To move a file in to a target directory
 
-8.  
+8. To delete a file in a target directory
+
+9.  
