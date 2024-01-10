@@ -24,4 +24,6 @@
 
 10. To change the working directory to the previous one
 
-11.  
+11. To show all hidden files with the current and parent directory
+
+12.  
