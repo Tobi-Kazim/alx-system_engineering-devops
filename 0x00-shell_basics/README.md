@@ -24,6 +24,6 @@
 
 10. To change the working directory to the previous one
 
-11. To show all hidden files with the current and parent directory
+11. To show all hidden files with the current and parent directory and also view the boot directory
 
-12.  
+12. 
